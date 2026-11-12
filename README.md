@@ -138,4 +138,4 @@ Brier = (p - y)^2,
 1. Росстат. Рабочая сила, занятость и безработица. https://rosstat.gov.ru/labour_force
 2. Росстат. Официальная статистика. https://rosstat.gov.ru/
 3. Банк России. Денежно-кредитная политика. https://www.cbr.ru/dkp/
-4. Банк России. Доклады о региональной экономике. https://www.cbr.ru/analytics/dkp/report/
+4. Банк России. Региональная экономика: комментарии ГУ. https://www.cbr.ru/analytics/dkp/reg_review/
